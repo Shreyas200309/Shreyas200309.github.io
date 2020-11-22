@@ -4,4 +4,5 @@
 .jumbo{position: absolute; top: 36%; left: 28%;}
 .cardimage{max-height: 100 px}
 .about {text-align: center;}
-html{scroll-behavior: smooth;}
+html{scroll-behavior: smooth; }
+body{background-color: black}
